@@ -55,6 +55,17 @@ export default defineConfig(({ mode }) => {
 })
 ```
 
+## Ecology
+
+- [x] Rollup
+- [x] Vite
+- [x] Webpack
+- [x] Esbuild
+- [x] Rspack
+- [x] Farm
+- [x] Rolldown
+- [x] Bun
+
 ## License
 
 [MIT](./LICENSE) License © 2026-PRESENT [Benjamin He](https://github.com/bjmhe)

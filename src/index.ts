@@ -1,12 +1,9 @@
 import { createUnplugin, type UnpluginInstance } from 'unplugin'
-import { resolveOptions, type Options } from './core/options'
 
 const UploadOssPlugin = require("@jd/upload-oss-tools");
 
-export const Starter: UnpluginInstance<Options | undefined, false> =
-  createUnplugin((rawOptions = {}) => {
-    const options = resolveOptions(rawOptions)
-
+export const Starter: UnpluginInstance<any, false> =
+  createUnplugin((options = {}) => {
     const name = 'unplugin-jdoss'
     return {
       name,

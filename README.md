@@ -3,7 +3,9 @@
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 
-Upload
+A build plugin based on [unplugin](https://github.com/unjs/unplugin) that automatically uploads files to JD OSS after build completion.
+
+It supports multiple build tools, including Vite, Webpack, Rspack, Rollup, Rolldown, esbuild and Farm. The plugin integrates `@jd/upload-oss-tools` and automatically performs uploads in the `writeBundle` hook, eliminating the need for manual deployment of static assets.
 
 ## Install
 

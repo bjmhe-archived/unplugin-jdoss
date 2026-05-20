@@ -64,8 +64,10 @@
     "release": "bumpp",
     "prepublishOnly": "pnpm run build"
   },
+  "peerDependencies": {
+    "@jd/upload-oss-tools": "1.1.28"
+  },
   "dependencies": {
-    "@jd/upload-oss-tools": "1.1.28",
     "unplugin": "^3.0.0"
   },
   "devDependencies": {

@@ -60,7 +60,8 @@
     "dev": "tsdown --watch",
     "test": "vitest",
     "typecheck": "tsc --noEmit",
-    "release": "bumpp"
+    "release": "bumpp",
+    "prerelease": "tsdown"
   },
   "peerDependencies": {
     "@jd/upload-oss-tools": "1.1.28"

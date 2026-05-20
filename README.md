@@ -35,8 +35,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, workspaceRoot)
 
   return {
-    base: `${env.VITE_BASE_URL}`,
-
+    base: env.VITE_BASE_URL,
     plugins: [
       mode === "production" &&
         VitePluginJdoss({

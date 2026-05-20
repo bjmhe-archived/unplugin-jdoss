@@ -4,16 +4,15 @@
   "version": "0.0.1",
   "packageManager": "pnpm@10.33.4",
   "description": "Description.",
-  "author": "Kevin Deng <sxzz@sxzz.moe>",
+  "author": "Benjamin He <hi@bjmhe.me>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/sxzz",
-  "homepage": "https://github.com/sxzz/unplugin-jdoss#readme",
+  "homepage": "https://github.com/bjmhe/unplugin-jdoss#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sxzz/unplugin-jdoss.git"
+    "url": "git+https://github.com/bjmhe/unplugin-jdoss.git"
   },
   "bugs": {
-    "url": "https://github.com/sxzz/unplugin-jdoss/issues"
+    "url": "https://github.com/bjmhe/unplugin-jdoss/issues"
   },
   "keywords": [
     "unplugin",

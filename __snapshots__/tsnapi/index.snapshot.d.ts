@@ -13,6 +13,7 @@ export interface Options {
   bucket: string;
   folder: string;
   ignoreRegexp: string;
+  customHeaders?: Record<string, string>;
 }
 // #endregion
 

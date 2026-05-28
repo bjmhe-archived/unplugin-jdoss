@@ -58,6 +58,12 @@ interface Options {
    * 正则字符串，匹配到的文件和文件夹都会忽略
    */
   ignoreRegexp: string;
+  /**
+   * 自定义请求头
+   * 非必填
+   * 例如: { "Cache-Control": "max-age=31536000" }
+   */
+  customHeaders?: Record<string, string>;
 }
 declare const Starter: UnpluginInstance<Options, false>;
 //#endregion

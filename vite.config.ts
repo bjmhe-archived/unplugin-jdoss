@@ -1,3 +1,5 @@
 import { nodeLib } from "@bjmhe/viteplus-preset";
 
-export default nodeLib();
+export default nodeLib({
+  entry: "shallow",
+});

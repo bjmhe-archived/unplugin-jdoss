@@ -1,7 +1,14 @@
 # unplugin-jdoss
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
+<!-- automd:badges bundlephobia license engine provider=npmx -->
+
+[![npm version](https://npmx.dev/api/registry/badge/version/unplugin-jdoss)](https://npmjs.com/package/unplugin-jdoss)
+[![npm downloads](https://npmx.dev/api/registry/badge/downloads/unplugin-jdoss)](https://npm.chart.dev/unplugin-jdoss)
+[![bundle size](https://npmx.dev/api/registry/badge/size/unplugin-jdoss)](https://bundlephobia.com/package/unplugin-jdoss)
+[![license](https://npmx.dev/api/registry/badge/license/unplugin-jdoss)](https://github.com/bjmhe/unplugin-jdoss/blob/main/LICENSE)
+[![engine](https://npmx.dev/api/registry/badge/engines/unplugin-jdoss)](https://npmx.dev/api/registry/badge/engines/unplugin-jdoss)
+
+<!-- /automd -->
 
 A build plugin based on [unplugin](https://github.com/unjs/unplugin) that automatically uploads files to JD OSS after build completion.
 
@@ -68,15 +75,21 @@ export default defineConfig(({ mode }) => {
 
 ## License
 
-[MIT](./LICENSE) License © 2026-PRESENT [Benjamin He](https://github.com/bjmhe)
+<!-- automd:contributors markupGoLogo anon author="bjmhe" license="MIT" -->
+
+Published under the [MIT](https://github.com/bjmhe/unplugin-jdoss/blob/main/LICENSE) license.
+Made by [@bjmhe](https://github.com/bjmhe) and [community](https://github.com/bjmhe/unplugin-jdoss/graphs/contributors) 💛
 <br><br>
 <a href="https://github.com/bjmhe/unplugin-jdoss/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=bjmhe/unplugin-jdoss" />
+<img src="https://contrib.rocks/image?repo=bjmhe/unplugin-jdoss&anon=true" />
 </a>
 
-<!-- Badges -->
+<!-- /automd -->
 
-[npm-version-src]: https://img.shields.io/npm/v/unplugin-jdoss.svg
-[npm-version-href]: https://npmjs.com/package/unplugin-jdoss
-[npm-downloads-src]: https://img.shields.io/npm/dm/unplugin-jdoss
-[npm-downloads-href]: https://www.npmcharts.com/compare/unplugin-jdoss?interval=30
+<!-- automd:with-automd -->
+
+---
+
+_🤖 auto updated with [automd](https://automd.unjs.io)_
+
+<!-- /automd -->

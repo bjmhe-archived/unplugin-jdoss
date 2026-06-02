@@ -16,9 +16,29 @@ It supports multiple build tools, including Vite, Webpack, Rspack, Rollup, Rolld
 
 ## Install
 
-```bash
-npm i -D -E unplugin-jdoss
+<!-- automd:pm-install dev auto=false -->
+
+```sh
+# npm
+npm install -D unplugin-jdoss
+
+# yarn
+yarn add -D unplugin-jdoss
+
+# pnpm
+pnpm add -D unplugin-jdoss
+
+# bun
+bun install -D unplugin-jdoss
+
+# deno
+deno install --dev npm:unplugin-jdoss
+
+# vp
+vp install -D unplugin-jdoss
 ```
+
+<!-- /automd -->
 
 ## Features
 

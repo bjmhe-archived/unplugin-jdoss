@@ -83,7 +83,7 @@
     "@jd/upload-oss-tools": "1.1.28"
   },
   "engines": {
-    "node": ">=20.19.0"
+    "node": ">=14.0.0"
   },
   "packageManager": "pnpm@10.33.4"
 }

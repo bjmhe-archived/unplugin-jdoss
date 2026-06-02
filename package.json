@@ -64,11 +64,20 @@
     "unplugin": "^3.0.0"
   },
   "devDependencies": {
-    "@bjmhe/viteplus-preset": "^1.0.3",
-    "@types/node": "^25.6.0",
-    "bumpp": "^11.0.1",
-    "typescript": "^6.0.2",
-    "vite-plus": "^0.1.22"
+    "@arethetypeswrong/core": "^0.18.3",
+    "@bjmhe/automd": "^0.0.7",
+    "@bjmhe/bjmhe": "^1.0.2",
+    "@bjmhe/viteplus-preset": "^2.0.3",
+    "@tsconfig/node24": "^24.0.4",
+    "@types/node": "^25.9.1",
+    "@typescript/native-preview": "7.0.0-dev.20260601.1",
+    "@vitest/coverage-v8": "^4.1.8",
+    "bumpp": "^11.1.0",
+    "publint": "^0.3.21",
+    "tsnapi": "^0.3.3",
+    "typescript": "^6.0.3",
+    "unplugin-unused": "^0.5.7",
+    "vite-plus": "^0.1.24"
   },
   "peerDependencies": {
     "@jd/upload-oss-tools": "1.1.28"

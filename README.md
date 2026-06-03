@@ -5,7 +5,7 @@
 [![npm version](https://npmx.dev/api/registry/badge/version/unplugin-jdoss)](https://npmjs.com/package/unplugin-jdoss)
 [![npm downloads](https://npmx.dev/api/registry/badge/downloads/unplugin-jdoss)](https://npm.chart.dev/unplugin-jdoss)
 [![bundle size](https://npmx.dev/api/registry/badge/size/unplugin-jdoss)](https://bundlephobia.com/package/unplugin-jdoss)
-[![license](https://npmx.dev/api/registry/badge/license/unplugin-jdoss)](https://github.com/bjmhe/unplugin-jdoss/blob/main/LICENSE)
+[![license](https://npmx.dev/api/registry/badge/license/unplugin-jdoss)](https://github.com/bjmhe-archived/unplugin-jdoss/blob/main/LICENSE)
 [![engine](https://npmx.dev/api/registry/badge/engines/unplugin-jdoss)](https://npmx.dev/api/registry/badge/engines/unplugin-jdoss)
 
 <!-- /automd -->
@@ -97,11 +97,11 @@ export default defineConfig(({ mode }) => {
 
 <!-- automd:contributors markupGoLogo anon author="bjmhe" license="MIT" -->
 
-Published under the [MIT](https://github.com/bjmhe/unplugin-jdoss/blob/main/LICENSE) license.
-Made by [@bjmhe](https://github.com/bjmhe) and [community](https://github.com/bjmhe/unplugin-jdoss/graphs/contributors) 💛
+Published under the [MIT](https://github.com/bjmhe-archived/unplugin-jdoss/blob/main/LICENSE) license.
+Made by [@bjmhe](https://github.com/bjmhe) and [community](https://github.com/bjmhe-archived/unplugin-jdoss/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/bjmhe/unplugin-jdoss/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=bjmhe/unplugin-jdoss&anon=true" />
+<a href="https://github.com/bjmhe-archived/unplugin-jdoss/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=bjmhe-archived/unplugin-jdoss&anon=true" />
 </a>
 
 <!-- /automd -->
